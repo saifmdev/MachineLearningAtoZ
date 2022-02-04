@@ -1,2 +1,2 @@
-# MachineLearningAtoZ
-Udemy: Machine Learning AtoZ Course Material
+# Machine Learning A-Z™: Hands-On Python & R In Data Science 
+Udemy: Course Material
